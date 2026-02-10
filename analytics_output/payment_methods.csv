@@ -1,0 +1,5 @@
+primary_payment_type,num_orders,total_value
+credit_card,73104,15192512.14
+boleto,19191,3943080.78
+voucher,2698,393890.01
+debit_card,1484,246677.51
