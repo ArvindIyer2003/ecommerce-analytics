@@ -62,6 +62,8 @@ Built an **end-to-end Sales Analytics Platform** featuring:
 
 https://public.tableau.com/app/profile/arvind.iyer5945/viz/Dashboardformonthlytrendsforolistdata/Dashboard1?publish=yes
 
+https://public.tableau.com/shared/BYXDFNT8T?:display_count=n&:origin=viz_share_link
+
 **Tools:**
 - Jupyter Notebooks (data exploration)
 - Git & GitHub (version control)
